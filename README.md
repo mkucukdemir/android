@@ -1,1 +1,1 @@
-Respositıry for Android Applications
+Repository for Android Applications
