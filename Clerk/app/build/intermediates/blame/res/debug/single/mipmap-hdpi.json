@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/mehmet/AndroidStudioProjects/Clerk/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/mehmet/AndroidStudioProjects/Clerk/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

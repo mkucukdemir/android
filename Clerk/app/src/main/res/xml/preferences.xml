@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Encryption Standard"
+        android:key="encryption_standard">
+        <EditTextPreference
+            android:key="magic_number"
+            android:title="Magic Number"
+            android:summary="Enter Your Magic Number"
+            android:dialogTitle="Magic Number"
+            android:dialogMessage="Enter Your Magic Number"
+            android:defaultValue="1"
+            android:inputType="number"/>
+    </PreferenceCategory>
+</PreferenceScreen>
