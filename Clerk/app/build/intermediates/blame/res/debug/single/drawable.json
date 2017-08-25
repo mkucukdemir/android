@@ -8,24 +8,24 @@
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/mehmet/.android/build-cache/95dec52db845b6ec64caf963cc28698f978b4d77/output/res/drawable/design_password_eye.xml"
-    },
-    {
         "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/mehmet/.android/build-cache/95dec52db845b6ec64caf963cc28698f978b4d77/output/res/drawable/design_password_eye.xml"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
         "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
@@ -178,6 +178,10 @@
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/src/main/res/drawable/about.png"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",

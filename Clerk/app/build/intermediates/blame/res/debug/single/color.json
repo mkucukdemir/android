@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color/abc_tint_default.xml"
-    },
-    {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color/abc_tint_default.xml"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",

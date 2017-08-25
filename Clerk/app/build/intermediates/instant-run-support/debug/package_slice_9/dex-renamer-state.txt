@@ -1,4 +1,4 @@
-#Fri Aug 04 14:34:20 EEST 2017
-base.0=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+#Fri Aug 25 10:39:31 EEST 2017
+base.0=/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
 renamed.0=classes.dex
-file.0=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
+file.0=/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
