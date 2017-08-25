@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",

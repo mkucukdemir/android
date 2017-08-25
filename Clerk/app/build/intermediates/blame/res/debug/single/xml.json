@@ -2,5 +2,9 @@
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/mehmet/AndroidStudioProjects/Clerk/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/src/main/res/xml/preferences.xml"
     }
 ]

@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/home/mehmet/AndroidStudioProjects/Clerk/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
         "source": "/home/mehmet/AndroidStudioProjects/Clerk/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mehmet/.android/build-cache/47e735d2c3f4e3ab5a60ebdfad954048fcf9ee9b/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

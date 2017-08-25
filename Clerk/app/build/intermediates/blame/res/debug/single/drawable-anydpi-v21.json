@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/mehmet/.android/build-cache/95dec52db845b6ec64caf963cc28698f978b4d77/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/mehmet/.android/build-cache/95dec52db845b6ec64caf963cc28698f978b4d77/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/mehmet/.android/build-cache/95dec52db845b6ec64caf963cc28698f978b4d77/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },

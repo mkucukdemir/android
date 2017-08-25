@@ -1,7 +1,4 @@
-#Sat Aug 05 23:35:49 EEST 2017
-base.0=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f8b64f180b1870e5b31b66c7fd9e9813da89030c
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e704065425d57946baf2a9eef3c9d92c78dc9360/classes.dex
-base.1=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e704065425d57946baf2a9eef3c9d92c78dc9360
-file.0=/home/mehmet/AndroidStudioProjects/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f8b64f180b1870e5b31b66c7fd9e9813da89030c/classes.dex
+#Fri Aug 25 10:10:34 EEST 2017
+base.0=/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/mehmet/AndroidStudioProjects/android/Clerk/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
